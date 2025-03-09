@@ -1,0 +1,11 @@
+requests
+rich
+pycountry
+Pysocks
+curl2pyreqs
+user_agent
+uuid
+Topython
+OneClick
+ms4==2.10.0
+stdiomask
